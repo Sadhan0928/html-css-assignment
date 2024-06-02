@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header .uifry img{
+    display: flex;
+    align-items: center;
+    margin: 10px 220px;
+
+}
+
+section .star2 img{
+    display: flex;
+    height: 48;
+    width: 48;
+    margin: 0 50px;
+}
+section .red2 img{
+    margin-top: -65px;
+    margin-left: 330px;
+    display: flex;
+}
+section .text1 img{
+    display: flex;
+    align-items: center;
+    margin: 40px 220px;
+    margin-top: -300px;
+}
+section .text2 {
+    display: flex;
+    align-items: center;
+    max-width: 240px;
+    margin: 40px 220px;
+}
+section .phone3 img{
+    margin: -510px 800px;
+}
+section .phone2 img{
+    margin: -433px 920px;
+}
+section .rings img{
+    margin: -380px 900px;
+}
+section .get1 img{
+   display: flex;
+   align-items: flex;
+   max-width: 1140px;
+   margin: -100px 220px;
+
+}
+section .get2 img{
+    display: flex;
+   align-items: flex;
+   max-width: 1140px;
+   margin: 110px 200px;
+}
+section-2 .red3 img{
+    margin-top: -65px;
+    margin-left: 1200px;
+}
+section-2 .red4 img{
+    margin-top: -275px;
+    margin-left: 120px;
+}
+section-2 .full img{
+    display: flex;
+    align-items: center;
+    margin-top: -750px;
+    margin-right:1290px;
+
+}
+section-2 .image1 img{
+    display: flex;
+    align-items: center;
+    margin-top: -2000px;
+    margin-left: 20px;
+
+}
+section-2 .image2 img{
+    display: flex;
+    align-items: center;
+    margin-top: 90px;
+    margin-left: 100px;
+
+}
+section-2 .red1{
+    margin-top: -35px;
+    margin-left: -50px;
+}
+section-2 .next img{
+    display: flex;
+    align-items: center;
+    margin-top: -250px;
+    margin-left: 100px;
+}
+section-2 .last{
+    display: flex;
+    align-items: center;
+    margin-top: 150px;
+    margin-left: 100px;
+}
